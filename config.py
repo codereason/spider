@@ -1,0 +1,7 @@
+MONGO_URL='localhost'
+MONGO_DB='toutiao'
+MONGO_TABLE='toutiao'
+START_OFFSET=1
+END_OFFSET=20
+
+KEYWORD='街拍'
